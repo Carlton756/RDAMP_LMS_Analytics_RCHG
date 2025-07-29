@@ -20,6 +20,8 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 
 This project utilizes a **Star Schema** data model. At the core of the model lies the `lms_data`, the cleaned Excel dataset, and the `fact_table`, which captures key training and learning activities, surrounded by  **dimension tables** that provide necessary information.
 
+<img alt="Schema" src="https://github.com/user-attachments/assets/114299b7-f8cd-4fbf-8dec-cf6e9d58bb6e" />
+
 ---
 
 ## Fact Table
