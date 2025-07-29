@@ -22,11 +22,20 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 -  The feedback_comment column values ended with a fullstop - this was also replaced with an empty space
 -  The LMS dataset was enhanced by removing rows with missing values in key fields such as CompletionDate and Score
 -  Created Course Completion Time column (calculated as the number of days between EnrollmentDate and CompletionDate)
--  Created Average Skill Score (based on the mean of communication, technical efficiency, and teamwork scores)
--  Created Completion Month, Completion Quarter columns (extracted from CompletionDate for trend analysis)
+-  Created CompletionMonth, CompletionQuarter and CompletionYear columns (extracted from CompletionDate for trend analysis)
 -  Data types were standardized to ensure accuracy in calculations
 -  Categorical fields like IsMandatory and AccessedViaDevice were reviewed for consistency
 -  In the Employee Info dataset, a Join Month column was added by extracting the month from the JoinDate, allowing for cohort and tenure-based analysis
+-  Added CourseID and CourseProvider to LMS Dataset for comprehensive data for creation of pipelines
+-  Added TotalSkillScore and Skill_Category columns for bifurcation of skill level and easy to create visualization
+-  Created TotalSkillScore column (total of SkillScore_Communication, SkillScore_TechEfficiency and SkillScore_Teamwork)
+-  Course detail dataset - no adjustments were made
+
+
+
+
+
+
 
 
   
