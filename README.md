@@ -1,8 +1,12 @@
-# Names & GitHub handles of all team members.
- ### Carlton Francis: 
- ### Karunesh Sehgal: 
- ### Abdulmalik Alegimenlen: Github_Abdulmalik198
- ### Oluebubechi Anyahara: Github_Ebube22
+## 👥 Team Members
+
+| Name                     | GitHub Handle         |
+|--------------------------|------------------------|
+| Carlton Francis          |                |
+| Karunesh Sehgal          | sehgal71        |
+| Abdulmalik Alegimenlen   | `@Github_Abdulmalik198`|
+| Oluebubechi Anyahara     | `@Github_Ebube22`      |
+
 
   
 # RDAMP_LMS_Analytics_RCHG
