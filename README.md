@@ -1,7 +1,7 @@
 # Names & GitHub handles of all team members.
  ### Carlton Francis: 
  ### Karunesh Sehgal:
- ### Abdulmalik Alegimenlen: Github_Abdulmalik
+ ### Abdulmalik Alegimenlen: Github_Abdulmalik198
  ### Oluebubechi Anyahara:
 
   
