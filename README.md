@@ -11,6 +11,22 @@
   
 # RDAMP_LMS_Analytics_RCHG
 Rychtenshane Community Housing Group (RCHG) is a social housing provider based in Chester. This project is geared towards creating RCHGs first Learning Management System (LMS), capable of centralizing learning efforts and utilizing data-driven insights to improve staff training, compliance, and performance outcomes.
+# Structure of Project
+```
+RDAMP-LMS_Analytics_RCHG/
+|__Data cleaning/
+|  |__Excel and Power BI
+|__Data_Modelling_and_Achitechture/
+|  |__schema_diagram.png
+|  |__create_database.sql
+|  |__create_fact_and_dim_tables.sql
+|  |__populate_dimension_tables.sql
+|  |__populate_fact_table.sql
+|__Power_BI/
+|  |__LMS_Analytics_RCHG_Dashboard.pbix
+|  |__dashboard_screenshots/
+|__README.md
+```
 
 ## 1. Data Cleaning
 
