@@ -14,8 +14,22 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 
 ## 1. Data Cleaning
 
+### Tool used for cleaning
+#### Excel and Power BI
+-  Standardized column names
+-  Formatted all date columns as some of the dates were not formatted properly - utilized text to column method in excel and then converted date to date format(MM-DD-YYY)
+-  A few of the records within the is_mandatory column had No(30) values - the (30) was replaced with an empty space using CtrlH in excel, so that column would only have Yes and No
+-  The feedback_comment column values ended with a fullstop - this was also replaced with an empty space
+-  The LMS dataset was enhanced by removing rows with missing values in key fields such as CompletionDate and Score
+-  Created Course Completion Time column (calculated as the number of days between EnrollmentDate and CompletionDate)
+-  Created Average Skill Score (based on the mean of communication, technical efficiency, and teamwork scores)
+-  Created Completion Month, Completion Quarter columns (extracted from CompletionDate for trend analysis)
+-  Data types were standardized to ensure accuracy in calculations
+-  Categorical fields like IsMandatory and AccessedViaDevice were reviewed for consistency
+-  In the Employee Info dataset, a Join Month column was added by extracting the month from the JoinDate, allowing for cohort and tenure-based analysis
 
 
+  
 ## 2. Power BI Data Model Overview (Star Schema)
 
 This project utilizes a **Star Schema** data model. At the core of the model lies the `lms_data`, the cleaned Excel dataset, and the `fact_table`, which captures key training and learning activities, surrounded by  **dimension tables** that provide necessary information.
