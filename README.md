@@ -17,7 +17,7 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 ### Tool used for cleaning
 #### Excel and Power BI
 -  Standardized column names
--  Formatted all date columns as some of the dates were not formatted properly - utilized text to column method in excel and then converted date to date format(MM-DD-YYY)
+-  Formatted all date columns as some of the dates were not formatted properly - utilized text to column method in excel and then converted date to date format (MM-DD-YYY)
 -  A few of the records within the is_mandatory column had No(30) values - the (30) was replaced with an empty space using CtrlH in excel, so that column would only have Yes and No
 -  The feedback_comment column values ended with a fullstop - this was also replaced with an empty space
 -  The LMS dataset was enhanced by removing rows with missing values in key fields such as CompletionDate and Score
