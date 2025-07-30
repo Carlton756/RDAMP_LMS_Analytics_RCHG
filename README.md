@@ -272,15 +272,133 @@ This forecast analyzes historical training completion trends and projects future
 - **2025 Drop**: Sharp decline observed in 2025.  
 - **Forecast (2025–2026)**: Modest recovery expected, but not to previous peak levels.
 
+---
+
+## 4. Business Insight
+
+### Executive Summary
+
+#### Key Findings Aligned with RCHG’s Learning and Compliance Goals
+
+- **Training Completion**: Out of 2000 tracked training instances, 1598 were completed, giving an overall completion rate of **79.90%**.
+- **Skill Gaps**: A **76.53% skill gap rate** highlights critical training needs across departments.
+- **Departmental Consistency**: Performance scores across IT, Finance, Repairs, etc., show consistent medians (~3.0), indicating uniformity in learning outcomes.
+- **Accessibility Advantage**: Users with screen readers achieved higher average scores (81.08) than non-users (79.88), emphasizing the impact of inclusive tools.
+- **Engagement**: Desktop is the primary device used for course interaction; highest time spent by role was Maintenance Technicians (~78 minutes).
+- **Forecast Concerns**: A steep drop in training completions is projected in 2025, threatening compliance unless corrective action is taken.
+
+---
+
+### Insight Narratives
+
+#### Trends, Risks, and Opportunities Derived from Dashboards
+
+- **Trend**: Uniform skill and performance scoring across departments indicates a standardized training framework, though not necessarily high performance.
+- **Risk**: A spike in overdue training in **July** (41 overdue, highest month) and a projected decline in completions pose risks to compliance targets.
+- **Opportunity**: Accessibility tools appear to improve user outcomes — an opportunity to scale inclusive design across the LMS.
+- **Trend**: Mandatory training completions significantly outnumber non-mandatory, reflecting compliance-driven engagement rather than skill-focused learning.
+- **Trend**: The time invested in training varies slightly by role and location, which may inform role-specific learning path adjustments.
+
+---
+
+### Advanced Analytics Section
+
+#### Forecast Model Interpretation
+
+- The **forecast graph** (2018–2026) reveals a dramatic decline in completions by **2025**, followed by slight recovery in **2026**.
+- Past patterns show cyclical trends, with peaks in early 2020 and 2022, suggesting possible alignment with compliance cycles or new policy rollouts.
+
+### Regression & ANOVA
+
+Based on the regression analysis between **training time**, **frequency**, and **performance scores**, the results indicate:
+
+- **Training Duration**: The **p-value** for training duration (`0.172`) is greater than `0.05`, suggesting that training duration does not have a **statistically significant impact** on performance scores.
+  
+- **Training Frequency**: The **p-value** for training frequency (`0.151`) is also greater than `0.05`, indicating that training frequency does not have a **statistically significant impact** on performance scores.
+
+#### In conclusion, **neither training duration nor training frequency** has a statistically significant effect on performance scores based on the current data.
+---
+
+### Strategic Recommendations
+
+#### Addressing Skill Gaps and Improving Learning Engagement
+
+1. **Targeted Skill Development**:
+   - Deploy microlearning for high-gap roles identified in the Performance Overview.
+   - Prioritize departments with lower completion consistency and higher overdue counts (e.g., July spike).
+
+2. **Accessibility-First Design**:
+   - Expand screen reader and alternative format support, leveraging evidence of higher performance from accessibility users.
+
+3. **Predictive Intervention**:
+   - Use forecasting insights to implement preemptive reminders or gamified learning incentives in Q4 2024 to offset the 2025 drop.
+
+4. **Role-Based Learning Paths**:
+   - Adjust training durations and content delivery styles for roles, based on engagement patterns.
+
+---
 
 
-
+## 5. Team Collaboration
 
 ## Team Members
 
-| Name                     | GitHub Handle                                  |
-|--------------------------|-----------------------------------------------|
-| Carlton Francis          | [Carlton756](https://github.com/Carlton756)                                 |
-| Karunesh Sehgal          | [sehgal71](https://github.com/sehgal71)  |
-| Abdulmalik Alegimenlen   | [Abdulmalik198](https://github.com/AbdulMalik198) |
-| Oluebubechi Anyahara     | [Ebube22](https://github.com/Ebube22)           |
+| Members                 | GitHub Handle                                      | Responsibilities                                 |
+|-------------------------|----------------------------------------------------|--------------------------------------------------|
+| Abdulmalik Alegimenlen | [https://github.com/AbdulMalik198](https://github.com/AbdulMalik198) | Data Cleaning                                    |
+| Carlton Francis         | [https://github.com/Carlton756](https://github.com/Carlton756)       | Dashboard Creation                               |
+| Karunesh Sehgal         | [https://github.com/sehgal71](https://github.com/sehgal71)           | Data Modeling (Star Schema) and Statistical Analysis |
+| Oluebubechi Anyahara    | [https://github.com/Ebube22](https://github.com/Ebube22)             | Creation of Visuals                              |
+
+#### Responsibility Allocation:
+Tasks were assigned based on each member’s strengths, interests, and prior experience. This helped ensure efficiency and mutual learning.
+
+## Strengths & Contributions:
+
+- **Abdulmalik Alegimenlen**: Ensured deadlines were met, maintaining communication and deliverables. Cleaned the patchy data and created calculated columns for better analysis.  
+- **Carlton Francis**: Delivered visuals for storytelling with data, creating compelling dashboards and KPIs in Power BI.  
+- **Karunesh Sehgal**: Brought SQL and database skills, for building schemas and data dimensions. Applied statistical techniques using python to uncover hidden trends and relationships between variables.  
+- **Oluebubechi Anyahara**: Collaborated with Carlton for enhanced visualizations and better dashboard creation.  
+
+Each team member collaborated actively and supported one another throughout the project, stepping in to fill any gaps and ensure collective success.
+
+## Weaknesses & Gaps:
+
+- Limited experience with forecasting and regression analysis initially led to slower dashboard and visuals development.  
+- Time management became challenging when balancing different time zones of team members and various delays with project deadlines.
+
+## Team Workflow & Communication:
+
+- **Methodology**: Agile  
+We followed Agile workflow, working in daily sprints with check-ins with updates on the status of workflow.
+
+- **Tools Used**:  
+  - GitHub – Source control and collaboration  
+  - Slack – Daily communication
+
+<img width="1369" height="642" alt="image" src="https://github.com/user-attachments/assets/a14d764b-1e71-4a28-b4a8-9c7b1568f886" />
+
+
+## Challenges Faced:
+
+| Challenge                    | Solution                                                                       |
+|-----------------------------|--------------------------------------------------------------------------------|
+| Inconsistent data formats   | Developed standardized data cleaning rules across all Excel files             |
+| Time zone and availability issues | Scheduled meetings based on mutual availability and used async check-ins  |
+| Dashboard performance in Power BI | Optimized data models and reduced visuals to increase load speed        |
+
+## Lessons Learned:
+
+- **Technical Skills**:  
+Learned practical applications of SQL joins, schema design, Power BI DAX formulas, and Jupyter visualizations.
+
+- **Soft Skills**:  
+Improved communication, conflict resolution, and remote collaboration skills.
+
+- **Next Time, We Would**:  
+  - Use a shared task board from the start. (Git, Google Collab etc.)  
+  - Set clearer weekly goals and tighter version control protocols  
+  - Allocate more time for final dashboard design and user testing  
+  - Early data modelling for better dimension creation and understanding of each aspect of data and how it affects the results  
+
+This project not only strengthened our technical toolkit but also showed us the importance of communication, collaboration, and adaptability in team environments. We are proud of our results and confident in our ability to work as a professional data team in future projects.
