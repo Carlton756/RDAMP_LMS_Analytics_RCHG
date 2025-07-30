@@ -167,11 +167,73 @@ This data model is designed to support interactive dashboards, advanced analytic
 Regular updates to the dimension and fact tables, along with well-defined relationships, help maintain data integrity and support evolving business requirements.
 
 # Power BI Visuals
--  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/df6394483e47ee9c27e7b55cf6d0ed55e5116bb6/Power%20BI%20Screenshots/Training%20and%20Compliance%20Summary.png)
+
+
+## Training and Compliance Summary
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/df6394483e47ee9c27e7b55cf6d0ed55e5116bb6/Power%20BI%20Screenshots/Training%20and%20Compliance%20Summary.png)
+
+This dashboard highlights employee training performance across departments.
+
+### Key Metrics:
+- **Departments Covered**: 6
+- **Completed Training Count**: 1598
+- **Overdue Count**: 402
+- **Overall Completion Rate**: 79.90%
+
+### Key Insights:
+- **Highest Overdue Month**: July (41 overdue), which is 78.26% higher than the lowest (September, 23 overdue).
+- **Monthly Overdue Range**: 23 to 41
+- **Top Contributing Month to Overdues**: July (10.2%)
+
+### Visuals:
+- **Completion Rate by Department & Location**: Doughnut chart showing department-wise completion performance.
+- **Mandatory vs Non-Mandatory Completion**: Bar chart indicating the majority of completed trainings were mandatory.
+- **Overdue Trend Over Time**: Bar chart showing the monthly trend of overdue trainings.
+- **Completed vs Overdue**: Doughnut chart comparing completed and overdue training counts.
+
+## Performance Overview
 
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/4fec37c17c9121af05bd0ec5013ff6c6bfbe1d41/Power%20BI%20Screenshots/Performance%20Analysis.png)
 
+This dashboard evaluates skill development and performance across teams and roles.
+
+### Key Metrics:
+- **Skill Gap Rate**: 76.53%
+- **Teams Assessed**: 6
+
+### Visuals:
+- **Review Frequency**: Bar chart detailing how often reviews are conducted by department/role/location.
+- **ARS (Assessment Review Score)**: Uniformly high ARS across all teams.
+- **Average Skill Score by Team**: Minor variation across departments such as IT, Finance, Repairs, etc.
+- **Average Skill Score by Role**: Bar chart with role-based skill score comparison — includes roles like Housing Officer, Electrician, Cleaner, etc.
+
+## Engagement Patterns
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9bfa7665acb5570409a47a3c343d6e32f5171429/Power%20BI%20Screenshots/Engagement%20Patterns.png)
+
+This dashboard focuses on how employees interact with training content.
+
+### Key Metrics:
+- **Total Minutes Spent on Courses**: 1598
+- **Locations**: 4
+- **Roles**: 18
+
+### Visuals:
+- **Device Usage Breakdown**:
+  - Desktop: Most used
+  - Mobile & Tablet: Moderately used
+
+- **Course Access Delay**: Displayed by department, role, and location in bar format.
+
+- **Time Spent by Role**: 
+  - Maintenance Technician: 78 min
+  - Housing Officer: 77.48 min
+  - Lettings Coordinator: 77.06 min
+
+- **Time Spent by Location**: 
+  - Northfield Office: 77.04 min
+  - Wythenshawe Central: 74.57 min
+  - Civic Centre Hub: 74.37 min
+  - Trafford Branch: 72.92 min
 
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/5347fed06dcb80870799a7fe7a3571986b823399/Power%20BI%20Screenshots/Performance%20Score%20Distribution%20Across%20Departments.png)
 
