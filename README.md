@@ -161,3 +161,6 @@ Another aggregation-friendly table with:
 
 This data model is designed to support interactive dashboards, advanced analytics, and actionable insights into employee training and development. By separating facts from dimensions and leveraging Power BI’s in-memory engine, it ensures fast query performance, easy scalability, and clear structure for report users.
 Regular updates to the dimension and fact tables, along with well-defined relationships, help maintain data integrity and support evolving business requirements.
+
+# Power BI Visuals
+
