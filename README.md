@@ -163,4 +163,6 @@ This data model is designed to support interactive dashboards, advanced analytic
 Regular updates to the dimension and fact tables, along with well-defined relationships, help maintain data integrity and support evolving business requirements.
 
 # Power BI Visuals
-![image](
+-  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/df6394483e47ee9c27e7b55cf6d0ed55e5116bb6/Power%20BI%20Screenshots/Training%20and%20Compliance%20Summary.png)
+-  ![image](
+
