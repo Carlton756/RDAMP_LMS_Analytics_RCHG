@@ -187,5 +187,5 @@ Regular updates to the dimension and fact tables, along with well-defined relati
 
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9265d55ce25a27d6fac97d672070f6fc5b1853f3/Power%20BI%20Screenshots/Accessibility%20Overview.png)
 
-- <img width="579" height="323" alt="Forecasting" src="https://github.com/user-attachments/assets/ed267477-e436-47d3-b906-a88dbdeb7cb9" />
+- [<img width="579" height="323" alt="Forecasting" src="https://github.com/user-attachments/assets/ed267477-e436-47d3-b906-a88dbdeb7cb9" />](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/main/Power%20BI%20Screenshots/Forecasting.png)
 
