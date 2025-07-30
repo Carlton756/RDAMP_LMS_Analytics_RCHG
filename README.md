@@ -14,7 +14,7 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 # Structure of Project
 ```
 RDAMP-LMS_Analytics_RCHG/
-RDAMP-LMS_Analytics_RCHG/
+│
 ├── excel/
 │   ├── Cleaned Employee Info Dataset_Group2.csv
 │   ├── Cleaned LMS Dataset Group2.csv
