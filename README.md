@@ -1,15 +1,5 @@
-## Team Members
-
-| Name                     | GitHub Handle                                  |
-|--------------------------|-----------------------------------------------|
-| Carlton Francis          | [Carlton756](https://github.com/Carlton756)                                 |
-| Karunesh Sehgal          | [sehgal71](https://github.com/sehgal71)  |
-| Abdulmalik Alegimenlen   | [Abdulmalik198](https://github.com/AbdulMalik198) |
-| Oluebubechi Anyahara     | [Ebube22](https://github.com/Ebube22)           |
-
-
-  
 # RDAMP_LMS_Analytics_RCHG
+
 Rychtenshane Community Housing Group (RCHG) is a social housing provider based in Chester. This project is geared towards creating RCHGs first Learning Management System (LMS), capable of centralizing learning efforts and utilizing data-driven insights to improve staff training, compliance, and performance outcomes.
 # Structure of Project
 ```
@@ -189,3 +179,16 @@ Regular updates to the dimension and fact tables, along with well-defined relati
 
 - [<img width="579" height="323" alt="Forecasting" src="https://github.com/user-attachments/assets/ed267477-e436-47d3-b906-a88dbdeb7cb9" />](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/main/Power%20BI%20Screenshots/Forecasting.png)
 
+
+
+
+
+
+## Team Members
+
+| Name                     | GitHub Handle                                  |
+|--------------------------|-----------------------------------------------|
+| Carlton Francis          | [Carlton756](https://github.com/Carlton756)                                 |
+| Karunesh Sehgal          | [sehgal71](https://github.com/sehgal71)  |
+| Abdulmalik Alegimenlen   | [Abdulmalik198](https://github.com/AbdulMalik198) |
+| Oluebubechi Anyahara     | [Ebube22](https://github.com/Ebube22)           |
