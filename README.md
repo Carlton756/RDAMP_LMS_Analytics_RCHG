@@ -14,6 +14,7 @@ Rychtenshane Community Housing Group (RCHG) is a social housing provider based i
 # Structure of Project
 ```
 RDAMP-LMS_Analytics_RCHG/
+RDAMP-LMS_Analytics_RCHG/
 ├── excel/
 │   ├── Cleaned Employee Info Dataset_Group2.csv
 │   ├── Cleaned LMS Dataset Group2.csv
@@ -27,8 +28,18 @@ RDAMP-LMS_Analytics_RCHG/
 │   ├── fact_table.xlsx
 │   └── lms_data.xlsx
 │
-├── powerbi/
-│   └── LMS_Dashboard.pbix
+├── Power BI Screenshots/
+│   ├── Accessibility Overview.png
+│   ├── Engagement Patterns.png
+│   ├── Forecasting.png
+│   ├── LMS_Dashboard.pbix
+│   ├── Performance Analysis.png
+│   ├── Performance Score Distribution Across Departments.png
+│   ├── Training and Compliance Summary.png
+│   └── Team Collaboration Summary
+│
+├── python/
+│   └── Statistical Analysis.ipynb
 │
 ├── sql/
 │   ├── Schema.png
@@ -37,9 +48,12 @@ RDAMP-LMS_Analytics_RCHG/
 │   ├── fact_table.sql
 │   └── populating_dimensions.sql
 │
-├── python/
-│   └── Statistical Analysis.ipynb
-└── README.md
+├── Team Collaboration Summary/
+│   └──Group2_Team_Collaboration_Summary.docx
+│
+├── README.md
+
+
 ```
 
 ## 1. Data Cleaning
