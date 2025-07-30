@@ -5,7 +5,7 @@
 | Carlton Francis          | [Carlton756](https://github.com/Carlton756)                                 |
 | Karunesh Sehgal          | [sehgal71](https://github.com/sehgal71)  |
 | Abdulmalik Alegimenlen   | [Abdulmalik198](https://github.com/Github_Abdulmalik198) |
-| Oluebubechi Anyahara     | [Ebube22](https://github.com/Github_Ebube22)           |
+| Oluebubechi Anyahara     | [Ebube22](https://github.com/Ebube22)           |
 
 
   
