@@ -163,4 +163,4 @@ This data model is designed to support interactive dashboards, advanced analytic
 Regular updates to the dimension and fact tables, along with well-defined relationships, help maintain data integrity and support evolving business requirements.
 
 # Power BI Visuals
-
+![image](
