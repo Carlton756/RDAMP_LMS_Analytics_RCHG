@@ -17,7 +17,15 @@ RDAMP-LMS_Analytics_RCHG/
 ├── excel/
 │   ├── Cleaned Employee Info Dataset_Group2.csv
 │   ├── Cleaned LMS Dataset Group2.csv
-│   └── Course Details Group2.csv
+│   ├── Course Details Group2.csv
+│   ├── dim_completionstatus.xlsx
+│   ├── dim_course.xlsx
+│   ├── dim_employee.xlsx
+│   ├── dim_feedback.xlsx
+│   ├── dim_skill.xlsx
+│   ├── dim_usage.xlsx
+│   ├── fact_table.xlsx
+│   └── lms_data.xlsx
 │
 ├── powerbi/
 │   └── LMS_Dashboard.pbix
@@ -27,15 +35,8 @@ RDAMP-LMS_Analytics_RCHG/
 │   ├── create_table.sql
 │   ├── dimensions.sql
 │   ├── fact_table.sql
-│   ├── populating_dimensions.sql
-│   ├── dim_completionstatus.xlsx
-│   ├── dim_course.xlsx
-│   ├── dim_employee.xlsx
-│   ├── dim_feedback.xlsx
-│   ├── dim_skill.xlsx
-│   ├── dim_usage.xlsx
-│   ├── fact_table.xlsx
-│   └── lms_data.xlsx
+│   └── populating_dimensions.sql
+
 │
 ├── python/
 │   └── Statistical Analysis.ipynb
