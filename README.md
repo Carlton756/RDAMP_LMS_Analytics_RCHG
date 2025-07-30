@@ -36,7 +36,6 @@ RDAMP-LMS_Analytics_RCHG/
 │   ├── dimensions.sql
 │   ├── fact_table.sql
 │   └── populating_dimensions.sql
-
 │
 ├── python/
 │   └── Statistical Analysis.ipynb
