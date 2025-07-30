@@ -193,7 +193,7 @@ This dashboard highlights employee training performance across departments.
 
 ## Performance Overview
 
--  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/4fec37c17c9121af05bd0ec5013ff6c6bfbe1d41/Power%20BI%20Screenshots/Performance%20Analysis.png)
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/4fec37c17c9121af05bd0ec5013ff6c6bfbe1d41/Power%20BI%20Screenshots/Performance%20Analysis.png)
 
 This dashboard evaluates skill development and performance across teams and roles.
 
@@ -208,7 +208,7 @@ This dashboard evaluates skill development and performance across teams and role
 - **Average Skill Score by Role**: Bar chart with role-based skill score comparison — includes roles like Housing Officer, Electrician, Cleaner, etc.
 
 ## Engagement Patterns
--  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9bfa7665acb5570409a47a3c343d6e32f5171429/Power%20BI%20Screenshots/Engagement%20Patterns.png)
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9bfa7665acb5570409a47a3c343d6e32f5171429/Power%20BI%20Screenshots/Engagement%20Patterns.png)
 
 This dashboard focuses on how employees interact with training content.
 
@@ -235,12 +235,42 @@ This dashboard focuses on how employees interact with training content.
   - Civic Centre Hub: 74.37 min
   - Trafford Branch: 72.92 min
 
--  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/5347fed06dcb80870799a7fe7a3571986b823399/Power%20BI%20Screenshots/Performance%20Score%20Distribution%20Across%20Departments.png)
+## Performance Score Distribution
 
--  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9265d55ce25a27d6fac97d672070f6fc5b1853f3/Power%20BI%20Screenshots/Accessibility%20Overview.png)
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/5347fed06dcb80870799a7fe7a3571986b823399/Power%20BI%20Screenshots/Performance%20Score%20Distribution%20Across%20Departments.png)
 
-- [<img width="579" height="323" alt="Forecasting" src="https://github.com/user-attachments/assets/ed267477-e436-47d3-b906-a88dbdeb7cb9" />](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/main/Power%20BI%20Screenshots/Forecasting.png)
+This chart displays the distribution of performance scores across various teams.
 
+### Key Insights:
+- **Teams Included**: IT, Customer Support, Housing Management, Repairs, Facilities, Finance  
+- **Performance Range**: Most teams show a similar spread between scores 1.0 and 5.0.  
+- **Median Score**: Consistently around 3.0 for all teams.  
+- **Outliers**: Minimal to none; uniform distribution indicates similar performance dynamics across departments.
+
+## Accessibility Overview
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9265d55ce25a27d6fac97d672070f6fc5b1853f3/Power%20BI%20Screenshots/Accessibility%20Overview.png)
+
+This dashboard highlights performance and feedback variations by accessibility usage.
+
+### Key Metrics:
+- **Average Score (Yes)**: 81.08  
+- **Average Score (No)**: 79.88  
+- **Accessibility Devices Tracked**: 3
+
+### Visuals:
+- **Screen Reader Usage Performance**: Users with screen readers slightly outperform those without.  
+- **Feedback Score by Device**: Similar satisfaction levels across Desktop, Mobile, and Tablet devices.
+
+## Completion Forecast
+
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/main/Power%20BI%20Screenshots/Forecasting.png)
+
+This forecast analyzes historical training completion trends and projects future numbers.
+
+### Key Observations:
+- **Historical Trends**: High variability in completions from 2018 to 2024, peaking in early 2022.  
+- **2025 Drop**: Sharp decline observed in 2025.  
+- **Forecast (2025–2026)**: Modest recovery expected, but not to previous peak levels.
 
 
 
