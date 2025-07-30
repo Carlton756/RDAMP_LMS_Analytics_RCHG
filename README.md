@@ -167,5 +167,7 @@ Regular updates to the dimension and fact tables, along with well-defined relati
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/4fec37c17c9121af05bd0ec5013ff6c6bfbe1d41/Power%20BI%20Screenshots/Performance%20Analysis.png)
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9bfa7665acb5570409a47a3c343d6e32f5171429/Power%20BI%20Screenshots/Engagement%20Patterns.png)
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/5347fed06dcb80870799a7fe7a3571986b823399/Power%20BI%20Screenshots/Performance%20Score%20Distribution%20Across%20Departments.png)
+## Link to Jupyter Notebook for Staistical Insights
+(https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/tree/e9fe302e7308540cf8b5bcd06c61084d529e98c0/python)
 -  ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9265d55ce25a27d6fac97d672070f6fc5b1853f3/Power%20BI%20Screenshots/Accessibility%20Overview.png)
 
