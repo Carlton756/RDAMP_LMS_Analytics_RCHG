@@ -195,25 +195,26 @@ This dashboard highlights employee training performance across departments.
 
 ![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/4fec37c17c9121af05bd0ec5013ff6c6bfbe1d41/Power%20BI%20Screenshots/Performance%20Analysis.png)
 
-This dashboard evaluates skill development and performance across teams and roles.
+This dashboard evaluates skill development and performance across departments and roles.
 
 ### Key Metrics:
 - **Skill Gap Rate**: 76.53%
-- **Teams Assessed**: 6
+- **Departments Assessed**: 6
 
 ### Visuals:
 - **Review Frequency**: Bar chart detailing how often reviews are conducted by department/role/location.
-- **ARS (Assessment Review Score)**: Uniformly high ARS across all teams.
-- **Average Skill Score by Team**: Minor variation across departments such as IT, Finance, Repairs, etc.
+- **ARS (Assessment Review Score)**: Uniformly high ARS across all Departments.
+- **Average Skill Score by Department**: Minor variation across departments such as IT, Finance, Repairs, etc.
 - **Average Skill Score by Role**: Bar chart with role-based skill score comparison — includes roles like Housing Officer, Electrician, Cleaner, etc.
 
 ## Engagement Patterns
-![image](
+![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/c1998e4f032fc316fde1ef6f392cb676652a0ed0/Power%20BI%20Screenshots/Engagement%20Patterns.png)
 
 This dashboard focuses on how employees interact with training content.
 
 ### Key Metrics:
-- **Total Minutes Spent on Courses**: 1598
+- **Total Minutes Spent on Courses**: 119.40 min
+- **Average Time Spent on Courses**: 74.72 min
 - **Locations**: 4
 - **Roles**: 18
 
