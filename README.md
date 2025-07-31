@@ -208,7 +208,7 @@ This dashboard evaluates skill development and performance across teams and role
 - **Average Skill Score by Role**: Bar chart with role-based skill score comparison — includes roles like Housing Officer, Electrician, Cleaner, etc.
 
 ## Engagement Patterns
-![image](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG/blob/9bfa7665acb5570409a47a3c343d6e32f5171429/Power%20BI%20Screenshots/Engagement%20Patterns.png)
+![image](
 
 This dashboard focuses on how employees interact with training content.
 
